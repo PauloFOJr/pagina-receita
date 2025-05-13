@@ -1,7 +1,5 @@
 
-# Mentor Frontend - Solução para página de receitas
-
-Esta é uma solução para o [desafio da página de receitas no Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação criando projetos realistas.
+#  Frontend Mentor- Solução para página de receitas
 
 Índice
 
@@ -24,8 +22,8 @@ Esta é uma solução para o [desafio da página de receitas no Frontend Mentor]
 
 ### Links
 
-- URL da solução: [Adicione a URL da solução aqui](https://your-solution-url.com)
-- URL do site ativo: [Adicione a URL do site ativo aqui](https://your-live-site-url.com)
+- URL da solução: [Adicione a URL da solução aqui](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm)
+- URL do site ativo: [Adicione a URL do site ativo aqui](https://paulofojr.github.io/pagina-receita/)
 
 ### Meu processo
 
@@ -58,4 +56,4 @@ Sou iniciante na área de programação. Esse é meu primeiro trabalho solo, com
 
 ### Autor
 
-- Mentor Frontend - [@PauloFOJr](https://www.frontendmentor.io/profile/PauloFOJr)
+- Frontend Mentor  - [@PauloFOJr](https://www.frontendmentor.io/profile/PauloFOJr)
