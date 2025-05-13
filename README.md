@@ -7,7 +7,7 @@ Esta é uma solução para o [desafio da página de receitas no Frontend Mentor]
 
 - [Visão geral](#visão geral)
 - [O desafio](#the-challenge)
-- [Captura da tela](#captura de tela)
+- [Captura da tela](#captura-de-tela)
 - [Links](#links)
 - [Meu processo](#meu-processo)
 - [Construído com](#construído-com)
