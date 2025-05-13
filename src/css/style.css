@@ -1,0 +1,116 @@
+body {
+   
+    font-family: "Outfit", sans-serif;
+    color: hsl(24, 5%, 18%);
+    font-weight: 400;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: hsl(30, 18%, 87%);
+}
+
+
+.receita {
+    background-color: hsl(0, 0%, 100%);
+    font-size: 18px;
+    width: 800px;
+    margin: 30px;
+    border-radius: 15px;
+    
+}
+
+span {
+    font-weight: 800;
+}
+
+img {
+    width: 720px;
+    
+    border-radius: 15px;
+}
+
+.titulo {
+    color: hsl(14, 45%, 36%);
+    font-family: "Young Serif", serif;
+    font-size: 32px;
+    padding: 20px 0;
+}
+
+.cabecalho {
+    padding: 40px;
+    min-width: auto;
+}
+.cabecalho .titulo {
+    color: hsl(24, 5%, 18%);
+    font-size: 43px;
+}
+
+.tempo-preparo {
+    background-color: hsl(330, 100%, 98%);
+    width: 720px;
+    height: 200px;
+    border-radius: 15px;
+    margin: 0 40px;
+    padding: 20px 0px;
+}
+
+.tempo-preparo .titulo {
+    color: hsl(332, 51%, 32%);
+    font-family: "Outfit", sans-serif;
+    font-size: 24px;
+    padding: 5px 50px;
+}
+
+.tempo-preparo .preparo {
+    padding: 5px 20px;
+    margin-left: 70px;
+}
+
+.lista-ingredientes {
+    margin: 0 40px;
+    padding-bottom: 30px;
+    border-bottom: 1px solid hsl(30, 10%, 34%);
+}
+
+
+.lista-ingredientes .ingredientes {
+    margin-left: 20px;
+    padding: 5px;
+    font-family: "Outfit", sans-serif;
+}
+
+.instrucoes {
+    margin: 0 40px;
+    padding-bottom: 30px;
+    border-bottom: 1px solid hsl(30, 10%, 34%);
+}
+
+.instrucoes .passos {
+    margin-left: 20px;
+    padding: 5px;
+}
+
+.tabela-nutricional {
+    margin: 0 30px;
+}
+
+.tabela-nutricional .itens {
+    list-style: none;
+    border-bottom: 1px solid hsl(30, 10%, 34%);
+    width: 355px;
+}
+
+.tabela {
+    display: flex;
+    justify-content: stretch;
+    padding: 15px;
+}
+
+.tabela .itens {
+    padding: 10px 40px;
+}
+
+.tabela-nutricional .itens:last-child {
+    border-bottom: none;
+    padding-bottom: 30px;
+}

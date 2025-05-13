@@ -1,0 +1,80 @@
+@media (max-width: 800px) {
+
+    .receita {
+        width: 320px;
+        margin: 0;
+        padding: 0;
+    }
+
+    .cabecalho {
+        padding: 0;
+
+    }
+
+    .cabecalho .titulo {
+        font-size: 32px;
+        margin: 0 20px;
+    }
+
+    .cabecalho .descricao {
+        font-size: 14px;
+        margin: 0 20px;
+    }
+
+    img {
+        width: 320px;
+        border-radius: 0;
+        margin: 0;
+    }
+
+    .tempo-preparo {
+        width: 280px;
+        margin: 20px;
+    }
+
+    .tempo-preparo .titulo {
+        font-size: 20px;        
+    }
+
+    .tempo-preparo .preparo {
+        font-size: 14px;
+         margin-left: 50px;
+    }
+    .lista-ingredientes .titulo{
+        font-size: 24px;
+        margin: 0 ;
+    }
+    .lista-ingredientes .ingredientes {
+    font-size: 14px;
+    }
+
+    .instrucoes .titulo{
+        font-size: 24px;
+        margin: 0 ;
+    }
+
+    .instrucoes .passos{
+        font-size: 14px;
+        
+    }
+
+    .tabela-nutricional .titulo{
+        font-size: 24px;
+        margin: 0;
+    }
+
+    .tabela-nutricional .descricao {
+        font-size: 14px;
+    }
+    
+    .tabela-nutricional .itens {
+        font-size: 14px;
+        width: 130px;
+    }
+
+    .tabela {
+        padding: 10px 0;
+    }
+
+ 
+}
