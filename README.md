@@ -5,7 +5,7 @@ Esta é uma solução para o [desafio da página de receitas no Frontend Mentor]
 
 Índice
 
-- [Visão geral](#visão geral)
+- [Visão geral](#visão-geral)
 - [O desafio](#the-challenge)
 - [Captura da tela](#captura-de-tela)
 - [Links](#links)
@@ -16,7 +16,7 @@ Esta é uma solução para o [desafio da página de receitas no Frontend Mentor]
 - [Autor](#autor)
 
 
-Visão geral
+### Visão geral
 
 ### Captura de tela
 
